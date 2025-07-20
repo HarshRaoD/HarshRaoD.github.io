@@ -761,6 +761,12 @@ section .container {
   margin-bottom: 0;
 }
 
+.services .icon-box .team-name p {
+  font-size: 16px;
+  margin-bottom: 5%;
+  font-weight: 600;
+}
+
 .services .icon-box:hover {
   background: rgba(204, 204, 204, 0.186);
 }
@@ -777,7 +783,10 @@ section .container {
   background: #35e888;
 }
 
-.services .icon-box:hover h4 a,
+.services .icon-box:hover h4 a{
+  color: #18d26e;
+}
+
 .services .icon-box:hover p {
   color: #fff;
 }
