@@ -1,0 +1,14 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "overused-font",
+        "value": "open sans",
+        "createdAt": "2026-10-26T04:42:51.848Z",
+        "reason": "Agent decision: Open Sans is the incumbent site font; this scoped update preserves the existing design and the user requested consistency with existing entries."
+      }
+    ]
+  }
+}

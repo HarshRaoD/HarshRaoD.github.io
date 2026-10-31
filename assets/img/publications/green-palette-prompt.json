@@ -1,0 +1,23 @@
+{
+  "tool": "built-in image_gen",
+  "primaryAccent": "#18D26E",
+  "highlight": "#35E888",
+  "prompt": "Edit this existing illustration ONLY to align its color palette with its portfolio website. Preserve the exact composition, concept, objects, characters, poses, geometry, perspective, relative sizes, connections, arrows, event flow, details, and wide 16:9 framing. The website's PRIMARY ACCENT GREEN is precisely #18D26E (RGB 24,210,110), brighter highlight #35E888, pale mint highlight #4CEB95. Replace the dominant violet/lavender/blue/cyan illuminated objects, edge lighting, glass, interfaces, arrows, data tokens and ambient reflections with a coordinated emerald-green palette anchored on #18D26E; deep forest green shadows and pale mint highlights for depth. Shift the dominant navy/purple background to near-black charcoal around #040404 with a very subtle dark green ambient tint, matching a black-and-green website. Keep neutral white/silver robot shells neutral, with green illumination rather than coloring entire robots solid green. If amber warning/priority tokens exist, retain small amber accents to preserve their meaning. Green must now be the unmistakable main accent, not purple or blue. Keep high contrast, polished dimensional rendering, and clean separation; avoid a uniform green color wash. Do not add or remove anything, no text, logos or watermark. This is a faithful PALETTE EDIT, not a redesigned image.",
+  "images": [
+    {
+      "key": "orchestration",
+      "name": "multi-agent-orchestration-green",
+      "source": "multi-agent-orchestration-v3.webp"
+    },
+    {
+      "key": "memory",
+      "name": "shared-organizational-memory-green",
+      "source": "shared-organizational-memory.webp"
+    },
+    {
+      "key": "hierarchy",
+      "name": "hierarchical-data-llms-green",
+      "source": "hierarchical-data-llms.webp"
+    }
+  ]
+}
