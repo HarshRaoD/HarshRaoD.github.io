@@ -761,10 +761,38 @@ section .container {
   margin-bottom: 0;
 }
 
+.services .professional-experience p,
+.services .professional-experience ul {
+  text-align: justify;
+}
+
+.services .professional-experience ul {
+  padding-left: 20px;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.services .professional-experience li {
+  margin-bottom: 12px;
+}
+
+.services .professional-experience h5 {
+  margin: 16px 0 8px;
+  text-align: left;
+  font-family: inherit;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 700;
+}
+
 .services .icon-box .team-name p {
   font-size: 16px;
   margin-bottom: 5%;
   font-weight: 600;
+}
+
+.services .professional-experience .team-name p {
+  text-align: center;
 }
 
 .services .icon-box:hover {
