@@ -58,6 +58,7 @@
    * Scrool with ofset on links with a class name .scrollto
    */
   on('click', '#navbar .nav-link', function(e) {
+    if (!this.hash || this.pathname !== window.location.pathname) return;
     let section = select(this.hash)
     if (section) {
       e.preventDefault()
